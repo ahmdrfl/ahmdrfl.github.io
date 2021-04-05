@@ -1,4 +1,2 @@
 # ahmdrfl.github.io
-website simp 
-
-yabegitulah
+web bucin
